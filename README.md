@@ -5,7 +5,7 @@ This repository contains MATLAB code used for analysis and modelling related to 
 
 ## Repository structure
 
-### `Kintetics analysis/`
+### `Kinetics analysis/`
 TIRF / tracking analysis scripts for trajectory processing, intensity analysis, cumulative analysis, thresholding, visualization, and quantification.
 
 See:
@@ -23,7 +23,7 @@ Scripts and functions for 2D multivalent diffusion simulations, 3D multi-tether 
 See:
 - `Polymers and diffusion sim/README_Polymers_and_diffusion_sim.md`
 
-### `Simulataion SNR/`
+### `Simulation SNR/`
 Scripts for simulated SNR-related data generation and processing.
 
 See:
