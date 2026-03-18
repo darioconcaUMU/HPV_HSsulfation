@@ -1,4 +1,4 @@
-# GitHub scripts — README
+# HPV16 and HS sulfation analysis scripts — README
 
 ## Overview
 
